@@ -15,7 +15,7 @@ Find out the strongest and most reliable meta Teamfight Tactics comps and builds
 1. OLAF RE ROLL  
 This comp builds upon the Scalescorn trait that doesn't want you to use a Dragon, but having Olaf and Diana 3 star more than makes up for that. You will need to slow roll at level 7 or 8 to hit your key units.
 
-![](olaf re roll.png)
+![](olafreroll.png)
 
 2. JADE WHISPERS
 
